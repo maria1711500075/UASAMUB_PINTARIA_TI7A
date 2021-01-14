@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UASAMUB_PINTARIA_TI7A"

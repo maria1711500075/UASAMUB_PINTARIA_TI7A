@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204421748714",
+    "project_id": "uasamub-pintaria-ti7a",
+    "storage_bucket": "uasamub-pintaria-ti7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204421748714:android:698c70690611765a324493",
+        "android_client_info": {
+          "package_name": "com.asus.uasamub_pintaria_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204421748714-of7nst4cce6jhu4uqkvdmp8lnrni5jdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtV3y8oqcdd0ZipotHJ_xNbwilpd6pDGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204421748714-of7nst4cce6jhu4uqkvdmp8lnrni5jdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
